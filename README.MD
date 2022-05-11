@@ -1,5 +1,6 @@
+Bu repository [patika.dev SQL derslerinde verilen ödevler kapsamında soru ve çözümleri içermektedir.](https://app.patika.dev/courses/sql)
 
-[Kaynak veritabanı](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+[dvdrental Kaynak veritabanı için tıklayınız.](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## HOMEWORK 1
 
