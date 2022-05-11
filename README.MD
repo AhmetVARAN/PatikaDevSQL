@@ -2,7 +2,7 @@ Bu repository [patika.dev SQL derslerinde verilen ödevler kapsamında soru ve �
 
 [dvdrental Kaynak veritabanı için tıklayınız.](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-## HOMEWORK 1
+## [HOMEWORK 1](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-1.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -13,7 +13,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 5. *film* tablosundaki uzunluğu*(length)* 50 ten büyük OLMAYIP aynı zamanda *rental_rate* değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
 
-## HOMEWORK 2
+## [HOMEWORK 2](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-2.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -22,7 +22,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3. *film* tablosunda bulunan tüm sütunlardaki verileri *rental_rate* 0.99, 2.99, 4.99 VE *replacement_cost* 12.99, 15.99, 28.99 olma koşullarıyla sıralayınız. ( IN operatörünü kullanınız.)
 
 
-## HOMEWORK 3
+## [HOMEWORK 3](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-3.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -32,7 +32,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 4. *film* tablosunda bulunan tüm sütunlardaki verilerden *title* 'C' karakteri ile başlayan ve *uzunluğu* (length) 90 dan büyük olan ve *rental_rate* 2.99 olan verileri sıralayınız.
 
 
-## HOMEWORK 4
+## [HOMEWORK 4](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-4.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -43,7 +43,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 5. *city* tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
 
-## HOMEWORK 5
+## [HOMEWORK 5](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-5.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -52,7 +52,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3. *customer* tablosunda bulunan *last_name* sütununa göre *azalan* yapılan sıralamada *store_id 1* olmak koşuluyla *ilk 4* veriyi sıralayınız.
 
 
-## HOMEWORK 6
+## [HOMEWORK 6](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-6.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -62,7 +62,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 4.  *film* tablosunda bulunan filmlerin *uzunluğu 150 dakikadan büyük* olanlarına ait kaç farklı *replacement_cost* değeri vardır?
 
 
-## HOMEWORK 7
+## [HOMEWORK 7](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-7.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -71,14 +71,14 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3. *customer* tablosunda bulunan *store_id* değerlerine karşılık gelen *müşteri sayıları* nelerdir? 
 4. *city* tablosunda bulunan şehir verilerini *country_id* sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran *country_id* bilgisini ve şehir sayısını paylaşınız.
 
-## HOMEWORK 8
+## [HOMEWORK 8](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-8.MD)
 
 1.  test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
 2.  Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
 3.  Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 4.  Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
 
-## HOMEWORK 9
+## [HOMEWORK 9](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-9.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -86,7 +86,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 2.  customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 3.  customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 
-## HOMEWORK 10
+## [HOMEWORK 10](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-10.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -95,7 +95,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3.  customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
 
 
-## HOMEWORK 11
+## [HOMEWORK 11](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-11.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -104,7 +104,7 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 3.  actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
 4.  İlk 3 sorguyu tekrar eden veriler için de yapalım.
 
-## HOMEWORK 12
+## [HOMEWORK 12](https://github.com/AhmetVARAN/PatikaDevSQL/blob/main/SQL-HomeWork-12.MD)
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
